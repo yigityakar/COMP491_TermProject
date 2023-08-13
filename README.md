@@ -7,7 +7,7 @@ Sarp Göl,
 Ece Pınar Özer,
 Yiğit Yakar,
 Duha Emir Ganioğlu,
-Doruk Özer,
+Doruk Özer
 
 # Getting Started with What's Nearby
 
