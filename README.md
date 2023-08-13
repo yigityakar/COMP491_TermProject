@@ -3,11 +3,11 @@
 This is a website that recommends nearby restaurants to users based on many factors like their tase, cuisine and ambiance preference. The recommendation is made through matrix factorization. 
 
 # Collaborators
-Sarp Göl
-Ece Pınar Özer
-Yiğit Yakar
-Duha Emir Ganioğlu
-Doruk Özer
+Sarp Göl,
+Ece Pınar Özer,
+Yiğit Yakar,
+Duha Emir Ganioğlu,
+Doruk Özer,
 
 # Getting Started with What's Nearby
 
